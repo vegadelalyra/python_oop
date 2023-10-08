@@ -264,9 +264,7 @@ One of the most frequently used design patterns in OOP and backend frameworks.
 
 In this website relies a Python example of the design pattern and a really descriptive explanation of it.   
 
-<pre>
 https://refactoring.guru/design-patterns/decorator/python/example
-</pre>
 
 ![image](https://github.com/vegadelalyra/python_oop/assets/77188420/8e9dd4b7-e30d-4e65-9177-009b3d74df99)
 
